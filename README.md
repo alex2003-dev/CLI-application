@@ -1,5 +1,12 @@
-# CLI-application
+# CLI Task Tracker
 
-    Hello, this repository is dedicated to my project, which will help me become more flexible, stable, disciplined, and skilled in the field of development.
+A simple command-line Task Tracker built in Python.  
+This project follows the requirements from https://roadmap.sh/projects/task-tracker.
 
-The task is set: create a CLI application for tracking tasks and managing a to-do list. 
+## Features
+- Add a task  
+- Update a task  
+- Delete a task  
+- Mark as in-progress  
+- Mark as done  
+- List all tasks or filter by status 
