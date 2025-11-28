@@ -1,12 +1,15 @@
-# CLI Task Tracker
+CLI Task Tracker
+A simple command-line task interpreter written in Python.
+This project meets the requirements set out on the website https://roadmap.sh/projects/task-tracker.
 
-A simple command-line Task Tracker built in Python.  
-This project follows the requirements from https://roadmap.sh/projects/task-tracker.
+The project uses a simple approach with classes. Each task has its own object, and all work with them is collected in a separate class. This keeps the code clear and makes it easier to add new features.
 
-## Features
-- Add a task  
-- Update a task  
-- Delete a task  
-- Mark as in-progress  
-- Mark as done  
-- List all tasks or filter by status 
+Functions
+Add task
+Update task
+Delete task
+Mark as ‘In progress’
+Mark as ‘Completed’
+List all tasks or filter by status
+
+
